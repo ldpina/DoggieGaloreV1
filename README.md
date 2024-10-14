@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![proj3.gif]()
+![proj4.gif](https://github.com/ldpina/DoggieGaloreV1/blob/main/proj4.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF!  
